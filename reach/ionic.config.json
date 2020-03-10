@@ -1,7 +1,0 @@
-{
-  "name": "reach",
-  "integrations": {
-    "cordova": {}
-  },
-  "type": "angular"
-}

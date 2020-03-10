@@ -1,0 +1,7 @@
+{
+  "name": "qt",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
